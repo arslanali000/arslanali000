@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arslanali000
+- 👋 Hi, I’m Arslan Ali
 - 👀 I’m interested in working
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me aliarslan7770@gmail.com

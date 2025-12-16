@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arslanali000
 - 👀 I’m interested in working
-- 🌱 I’m currently learning SEO
--  My website is https://aitoolscorner.com/
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me aliarslan7770@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
